@@ -13,7 +13,7 @@ Files
 - dashboard_preview.png → Dashboard preview image
 
  Preview
- Dashboard Screenshot (dashboard_preview.png)
+ Dashboard Screenshot (dashboard_preview.png.png)
 
  Usage
  Clone or download this repository:
