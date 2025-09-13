@@ -18,5 +18,7 @@ Files
  Usage
  Clone or download this repository:
  bash
+ https://github.com/senaerdemm2/powerBI_sales_dashboard
+ 
  
  
